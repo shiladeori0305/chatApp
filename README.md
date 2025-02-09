@@ -20,4 +20,5 @@ A full-stack real-time chat application with:
 
 ✅ Privacy & Security – End-to-end encryption for messages
 
+![image](https://github.com/user-attachments/assets/6c259824-87d6-4a0d-a613-869aa6a84943)
 
