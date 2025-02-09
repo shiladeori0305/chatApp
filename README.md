@@ -19,6 +19,10 @@ A full-stack real-time chat application with:
 ✅ User-Friendly UI – Responsive design using React & TailwindCSS
 
 ✅ Privacy & Security – End-to-end encryption for messages
+![image](https://github.com/user-attachments/assets/570a988a-3139-4d79-8411-138dc8de2f86)
+![image](https://github.com/user-attachments/assets/41cdf545-7a01-4e62-8906-145c948ce028)
+
+
 
 ![image](https://github.com/user-attachments/assets/6c259824-87d6-4a0d-a613-869aa6a84943)
 
